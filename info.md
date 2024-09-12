@@ -1,0 +1,1 @@
+curl -o /dev/null -s -w %{time_total}\\n  https://localhost:8000/nonblocking
